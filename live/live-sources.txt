@@ -1,0 +1,45 @@
+FongMi 直播源地址清单（m3u/txt，可直接填到「设置-直播」）
+========================================================================
+
+BigBigGrandG-综合          1956 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+
+Guovin-IPTV              1619 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+
+苏香-myIPTV                1273 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
+huyayqk                  1119 频道
+    https://sub.ottiptv.cc/huyayqk.m3u
+
+ibert-ALL                723 频道
+    https://m3u.ibert.me/all.m3u
+
+vbskycn-IPTV4            679 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+
+iptv-org-中国              508 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+芒果TV                     197 频道
+    https://mgtv.ottiptv.cc/mglist.m3u
+
+YanG-1989                123 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+Kimentanm                120 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+YueChan-Live             96 频道
+    https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+如意TV                     79 频道
+    http://iptv.ruyitv.cc/m3u/tv.txt
+
+FYTV                     49 频道
+    http://iptv.4666888.xyz/FYTV.m3u
+
+范明明-综合(需外网)              频道数未知
+    https://live.fanmingming.com/tv/m3u/index.m3u
+

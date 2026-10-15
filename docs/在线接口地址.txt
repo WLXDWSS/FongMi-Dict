@@ -1,0 +1,125 @@
+FongMi 在线接口地址清单（直接粘贴到「设置-点播-配置地址」即可，无需电脑做服务器）
+========================================================================
+
+【单仓线路｜实测公网可达】
+①高天流云·聚合JS
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
+    (298站点，覆盖最广)
+
+②老刘备
+    https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+    (234站点，长期维护)
+
+③影视仓聚合
+    https://ghproxy.net/https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/%E5%8D%95%E4%BB%93%E8%81%9A%E5%90%88.json
+    (167站点，聚合肥猫/王二小等10家)
+
+④高天流云·PG
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json
+    (135站点，网盘高码率)
+
+⑤王二小
+    https://9280.kstore.vip/aiwex.json
+    (99站点，4K多)
+
+⑥网络接口
+    https://8815.kstore.vip/tvbox/wmz
+    (98站点，老牌稳定)
+
+⑦clun
+    https://clun.top/box.json
+    (97站点，直播17路)
+
+⑧高天流云·多线
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json
+    (86站点，多线冗余)
+
+⑨PG综合
+    https://www.252035.xyz/p/jsm.json
+    (74站点，直播29路)
+
+⑩noimank
+    https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
+    (64站点，解析24个)
+
+⑪王二小·域名版
+    http://tvbox.王二小放牛娃.top
+    (63站点)
+
+⑫小盒子
+    http://xhztv.top/xhz
+    (54站点)
+
+⑬高天流云·FTY
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json
+    (51站点，饭太硬同源)
+
+⑭高天流云·XYQ
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+    (49站点，香雅情同源)
+
+⑮香雅情
+    https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
+    (48站点，老片多)
+
+⑯半糖仙人
+    https://raw.giteeusercontent.com/ph7368/ok/raw/master/%E5%8D%8A%E7%B3%96%E4%BB%99%E4%BA%BA.json
+    (46站点，直播18路)
+
+⑰菜妮丝
+    https://tv.xn--yhqu5zs87a.top
+    (46站点)
+
+⑱FongMi专版
+    https://www.252035.xyz/z/FongMi.json
+    (43站点，专为FongMi适配)
+
+⑲肥猫
+    http://肥猫.net/
+    (39站点)
+
+⑳tushen6
+    https://ghproxy.net/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
+    (33站点，OK影视同源)
+
+㉑高天流云·FM
+    https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+    (33站点，FongMi官方jar)
+
+㉒俊于
+    http://home.jundie.top:81/top98.json
+    (24站点，冷门老片)
+
+【多仓/子仓库】
+小盒子多仓(12仓)
+    http://xhztv.top/DC.txt
+
+蜗牛多仓(27仓)
+    https://tv.%E8%9C%97%E7%89%9B.top/DS
+
+游魂多仓(24仓)
+    https://www.iyouhun.com/tv/dc
+
+tvyuan多仓(27仓)
+    https://gitee.com/onm-hundred-and-eleven/tvyuan/raw/main/tvbox_multi.json
+
+FanchangWang多仓(8仓)
+    https://gh-proxy.com/https://raw.githubusercontent.com/FanchangWang/tvbox_config/main/dist/tvbox.json
+
+【备用线路｜手机运营商网络下可用】
+备用·摸鱼儿
+    http://我不是.摸鱼儿.top
+    (100站点，更新极快)
+
+备用·tvyuan全量
+    https://tv.cc0cd.cc.cd
+    (1356站点/129直播，最全但需网络可达)
+
+备用·饭太硬
+    http://www.饭太硬.net/tv
+    (老牌接口)
+
+备用·菜妮丝旧域
+    https://tv.菜妮丝.top
+    (菜妮丝备用域名)
+

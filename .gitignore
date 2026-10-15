@@ -1,0 +1,16 @@
+# 抓取缓存与构建产物（可删除，删掉后下次更新会重新抓取）
+tools/httpcache/
+tools/build_report.json
+tools/__pycache__/
+__pycache__/
+*.pyc
+
+# 本地虚拟环境
+venv/
+.venv/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
