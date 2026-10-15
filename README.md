@@ -15,6 +15,30 @@
 
 ---
 
+## 🔖 订阅地址（本仓库 · 免传文件）
+
+直接把下面的地址粘到 FongMi 的 **设置 → 点播 → 请输入配置…** 里，点确定即可，**不用传文件、不用自建服务器**：
+
+```
+# ⭐ 多仓总配置（22 条线路，可在软件里随时切换）—— 日常首选
+https://ghproxy.net/https://raw.githubusercontent.com/WLXDWSS/FongMi-Dict/main/config/multi.json
+
+# 全能合并单仓（1171 站点 + 134 解析 + 14 路直播）
+https://ghproxy.net/https://raw.githubusercontent.com/WLXDWSS/FongMi-Dict/main/config/all-in-one.json
+
+# 多仓增强版（22 条线路 + 5 个公开多仓 + 4 条备用 = 31 条）
+https://ghproxy.net/https://raw.githubusercontent.com/WLXDWSS/FongMi-Dict/main/config/multi-plus.json
+```
+
+> 上面走 `ghproxy.net` 加速（国内直连 `raw.githubusercontent.com` 常不通）。加速器挂了可换：
+> 把 `https://ghproxy.net/https://raw.githubusercontent.com/…` 换成
+> `https://gh-proxy.com/https://raw.githubusercontent.com/…`，
+> 或用 jsDelivr：`https://fastly.jsdelivr.net/gh/WLXDWSS/FongMi-Dict@main/config/multi.json`
+>
+> 只想要直播：`live/live-sources.txt` 里的地址填到 **设置 → 直播**。
+
+---
+
 ## ⚠️ 免责声明（请先读）
 
 - 本项目**不生产、不存储、不传播任何影视内容**，只是把互联网上**公开分享**的接口地址、爬虫包、直播源做**抓取、校验与整理**。
